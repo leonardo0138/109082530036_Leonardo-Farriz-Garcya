@@ -102,31 +102,21 @@ func main() {
 [penjelasan]
 <h2>Soal 1</h2>
 <br>
-<p>package main: 
--Bahwa program ini adalah program utama yang bisa langsung dijalankan. 
--Tanpa main, kode tidak bisa dieksekusi sebagai aplikasi.
-</p>
-<p>import "fmt": Perintah ini mengimpor paket fmt (format) dan untuk menjalankan operasi input dan output seperti Scan dan Print</p>
-<p>func main() : bisa diartikan sebagai “fungsi utama”</p>
-<p>var : kata kunci untuk mendeklarasikan variabel</p>
-<p>satu, dua, tiga : variabel bertipe string</p>
-<p>temp : variabel bertipe string</p>
-<p>string : tipe data untuk teks</p>
-<p>Println / Print : untuk menampilkan hasil atau kalimat ke layar (Println membuat baris baru di akhir, Print tidak)</p>
-<p>Scan : untuk memasukan data di terminal</p>
+<p>package main: menandakan bahwa program ini adalah program utama</p>
+<p>import "fmt": digunakan untuk input/output standar</p>
+<p>func main() : untuk titik awal eksekusi program Go, semua intruksi akan berjalan dari fungsi ini</p>
+<p>var: untuk mendeklarasikan variabel</p>
+<p>satu, dua, tiga, temp: variabel bertipe string(teks)</p>
+<p>Println / Print: untuk menampilkan hasil atau kalimat ke layar (Println membuat baris baru di akhir, Print tidak)</p>
+<p>Scanln: membaca input dari pengguna dan menyimpannya ke masing’ variabel nya(</p>
 
-<p>Dalam code di atas, program meminta user untuk menginputkan tiga buah kata satu per satu yang disimpan ke dalam variabel satu, dua, dan tiga
-Program kemudian mencetak urutan kata tersebut persis seperti saat diinputkan sebagai "Output awal"
-Setelah itu, program melakukan proses pergeseran urutan nilai variabel menggunakan variabel bantuan temp:</p>
-
-<p>Nilai awal pada variabel satu diamankan terlebih dahulu ke dalam variabel temp
-Posisi variabel satu yang sudah digandakan nilainya itu kemudian ditimpa oleh nilai dari variabel dua
-Posisi variabel dua selanjutnya ditimpa oleh nilai dari variabel tiga
-Terakhir, posisi variabel tiga diisi dengan nilai dari temp (yang merupakan nilai asli dari kata satu di awal)
-Setelah proses pergeseran ini selesai, program mencetaknya sebagai "Output akhir", di mana urutan kata tersebut telah bergeser posisinya.</p>
+<p> Jadi program ini meminta user untuk menginputkan tiga buah kata satu per satu yang disimpan ke dalam variabel satu, dua, dan tiga.
+Setelah semua input dimasukkan, program akan menampilkan output awal yang berisi ketiga kata tersebut sesuai urutan input.
+Kemudian program melakukan pertukaran posisi nilai variabel menggunakan variabel sementara temp. Nilai pada satu dipindahkan ke temp, lalu dua dipindahkan ke satu, tiga dipindahkan ke dua, dan nilai dari temp dipindahkan ke tiga. Proses ini membuat urutan data bergeser ke kiri.
+Dan program menampilkan output akhir yang berisi urutan string yang sudah berubah.</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 2B" src="https://github.com/user-attachments/assets/30dd0c2c-2b63-44f6-927f-5c94b806d060" />
+<img  />
 
 [penjelasan]
 <h2>Soal 2</h2>
