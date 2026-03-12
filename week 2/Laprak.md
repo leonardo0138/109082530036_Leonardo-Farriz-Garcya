@@ -121,61 +121,51 @@ Dan program menampilkan output akhir yang berisi urutan string yang sudah beruba
 [penjelasan]
 <h2>Soal 2</h2>
 <br>
-<p>package main : ini adalah paket</p>
-<p>import "fmt": Perintah ini mengimpor paket fmt (format) dan untuk menjalankan operasi input dan output seperti Scan dan Print</p>
-<p>func main() : bisa diartikan sebagai “fungsi utama”</p>
-<p>var : kata kunci untuk mendeklarasikan variabel</p>
-<p>wrna1, wrna2, wrna3, wrna4 : 4 variabel yang dibuat bertipe string</p>
-<p>temp : variabel yang dibuat bertipe boolean</p>
-<p>string : tipe data untuk teks</p>
-<p>bool : tipe data boolean yang hanya memiliki dua nilai, yaitu benar (true) atau salah (false)</p>
-<p>Println / Print : untuk menampilkan hasil atau kalimat ke layar (Println membuat baris baru di akhir, Print tidak)</p>
-<p>:= : operator short declaration, digunakan untuk membuat variabel baru sekaligus mengisi nilainya (di sini membuat variabel x dengan nilai awal 1)</p>
-<p>for : perintah untuk melakukan perulangan (looping)</p>
-<p><= : operator perbandingan "Kurang dari atau sama dengan"</p>
-<p>Scan : untuk memasukan data di terminal</p>
-<p>if : struktur percabangan logika</p>
-<p>!= : operator perbandingan "Tidak sama dengan"</p>
+<p>package main: menandakan bahwa program ini adalah program utama</p>
+<p>import "fmt": digunakan untuk input/output standar</p>
+<p>func main() : untuk titik awal eksekusi program Go, semua intruksi akan berjalan dari fungsi ini</p>
+<p>var: untuk mendeklarasikan variabel</p>
+<p>color1, color2, color3, color4 string: 4 variabel bertipe string(teks)</p>
+<p>temp bool: variabel bertipe boolean(true/false)</p>
+<p>Println/Print: untuk menampilkan hasil ke layar (Println membuat baris baru di akhir, Print tidak)</p>
+<p>tempt = true: memberikan nilai awal temp yaitu true sebelum dicek </p>
+<p>i := 1: untuk membuat variabel i dengan nilai awal 1</p>
+<p>for i <= 5 : (for) perulangan, program akan berjalan selama i <= 5 </p>
+<p>fmt.Scan(&color1, &color2, &color3, &color4): membaca 4 input dari user, dan menyimmpannya sesuai variabel</p>
+<p>&: alamat variabel</p>
+<p>if color1 != "merah : (if) percabangan yang digunakan untuk menjalankan kode sesuai dengan kondisi(dalam kondisi ini mengecek apakah urutan warna salah)</p>
+<p>!= : operator perbandingan "Tidak sama dengan"</	p>
 <p>|| : operator logika "ATAU" (OR)</p>
-<p>++ : operator tambah 1</p>
+<p>temp = false: jika urutan warna tidak sesuai mmaka program menandai hasilnya false</p>
+<p>i++ : menambah nilai i sebanyak 1</p>	
 
-<p>Dalam code di atas, program meminta user untuk menguji urutan warna sebanyak 5 kali percobaan (diatur oleh for x <= 5)
-Di awal, variabel temp disetel menjadi true, artinya program mengasumsikan user "berhasil" terlebih dahulu
-Di dalam setiap perulangan:</p>
+<p>Program ini meminta pengguna mengurutkan warna sesuai aturan yaitu merah, kuning, hijau, ungu. Program memberikan 5 kali percobaan untuk memasukkan empat warna tersebut. Pada setiap percobaan, pengguna memasukkan 4 warna sekaligus yang disimpan ke variabel color1, color2, color3, dan color4. Program kemudian memeriksa apakah urutan warna yang dimasukkan sesuai dengan aturan. Jika salah satu warna tidak sesuai dengan urutan yang benar, maka variabel temp akan berubah menjadi false.
+Setelah semua percobaan selesai, program akan menampilkan hasil akhir "Berhasil" yang bernilai true/false </p>
 
-<p>Program meminta user menginput 4 nama warna sekaligus (wrna1, wrna2, wrna3, wrna4)
-Program mengecek kondisi kesalahan menggunakan if: Apakah wrna1 bukan "merah" ATAU wrna2 bukan "kuning" ATAU wrna3 bukan "hijau" ATAU wrna4 bukan "ungu"
-Jika ada satu saja warna yang diinput tidak sesuai dengan urutan tersebut pada percobaan ke berapapun, maka status temp akan langsung diubah menjadi false (gagal)
-Setelah 5 kali percobaan selesai, program keluar dari loop dan mencetak hasil akhirnya. Jika selama 5 kali berturut-turut inputnya selalu benar ("merah kuning hijau ungu"), maka hasil akhirnya true. Jika ada satu saja yang meleset, hasil akhirnya false.</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 2C" src="https://github.com/user-attachments/assets/58e8c57b-3bca-4b2d-9f42-30da52026476" />
+<img  />
 
 [penjelasan]
 <h2>Soal 3</h2>
 <br>
-<p>package main : ini adalah paket</p>
-<p>import "fmt": Perintah ini mengimpor paket fmt (format) dan untuk menjalankan operasi input dan output seperti Scan dan Print</p>
-<p>func main() : bisa diartikan sebagai “fungsi utama”</p>
-<p>var : kata kunci untuk mendeklarasikan variabel</p>
-<p>g, kg, gr, tambahan : empat variabel yang dibuat</p>
-<p>int : tipe data untuk bilangan bulat</p>
-<p>scan : untuk memasukan data di terminal</p>
-<p>print : untuk menampilkan hasil atau kalimat</p>
-<p>if : perintah kondisional untuk menjalankan kode jika suatu syarat terpenuhi</p>
+<p>package main: menandakan bahwa program ini adalah program utama</p>
+<p>import "fmt": digunakan untuk input/output standar</p>
+<p>func main() : untuk titik awal eksekusi program Go, semua intruksi akan berjalan dari fungsi ini</p>
+<p>var: untuk mendeklarasikan variabel</p>
+<p>g, kg, gr, tambahan int: 3 variabel bertipe integer (bilangan bulat)</p>
+<p>fmt.Scan(&g) : membaca input dari user, dan menyimmpannya ke variabel g</p>
+<p>% (modulus), *(perkalian), /(pembagian)</p>
+<p>if : percabangan yang digunakan untuk menjalankan kode sesuai dengan kondisi</p>
 <p>else if : syarat ke 2 atau setelah if yang pertama</p>
 <p>else : jika semua kondisi if tidak terpenuhi</p>
-<p>% : modulus</p>
 <p>&& : DAN (AND)</p>
-<p>> : operator “Lebih dari”</p>
-<p>< : operator “Kurang dari”</p>
-<p>>= : operator “lebih besar sama dengan”</p>
-<p><= : operator “lebih kecil sama dengan”</p>
+<p>Println/Print: untuk menampilkan hasil/teks ke layar (Println membuat baris baru di akhir, Print tidak)</p>
+	
+<p>Program ini digunakan untuk menghitung biaya pengiriman parsel berdasarkan berat dalam gram. Pengguna diminta memasukkan berat parsel (g), kemudian program mengubahnya menjadi kilogram (kg) dan sisa gram (gr)</p>
 
-<p>dalam code di atas terdapat variabel  g, kg, gr, dan tambahan. Di saat code nya di jalankan user memasukkan berat dalam gram (g). Program kemudian memecahnya menjadi kilogram (kg) dan sisa gram (gr) menggunakan rumus pembagian dan sisa bagi (modulus). Biaya dasar dihitung 10.000 per kg.
-Kemudian program masuk ke logika if:</p>
-
-<p>Jika sisa gram (gr) >= 500 DAN total berat (kg) < 10, maka biaya tambahan adalah gr * 5.</p>
-<p>Jika sisa gram (gr) < 500 DAN total berat (kg) < 10, maka biaya tambahan adalah gr * 15.</p>
-<p>Jika total berat (kg) > 10, maka tidak ada biaya tambahan (gratis sisa gram).</p>
-<p>Terakhir, program menjumlahkan biaya dasar dengan biaya tambahan dan mencetak totalnya.</p>
+</p>Biaya dasar dihitung dari jumlah kilogram × Rp10.000. Setelah itu program mengecek sisa gram untuk menentukan biaya tambahan:</p>
+<p>Jika sisa gram ≥ 500 dan kg ≤ 10, maka biaya tambahan = gr * 5</p>
+<p>Jika sisa gram < 500 dan kg ≤ 10, maka biaya tambahan = gr * 15.</p>
+<p>Jika kg > 10, maka tidak ada biaya tambahan.</p>
+<p>Program kemudian menampilkan detail berat, detail biaya (biaya dasar + tambahan), dan total biaya pengiriman</p>
