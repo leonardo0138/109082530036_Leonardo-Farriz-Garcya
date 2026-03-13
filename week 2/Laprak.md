@@ -144,7 +144,7 @@ Setelah semua percobaan selesai, program akan menampilkan hasil akhir "Berhasil"
 
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal2.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -171,6 +171,5 @@ Setelah semua percobaan selesai, program akan menampilkan hasil akhir "Berhasil"
 <p>Program kemudian menampilkan detail berat, detail biaya (biaya dasar + tambahan), dan total biaya pengiriman</p>
 
 
-##### Output
 ##### Output
 <img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal%203.png" >
