@@ -108,7 +108,7 @@ func main() {
 <p>var: untuk mendeklarasikan variabel</p>
 <p>satu, dua, tiga, temp: variabel bertipe string(teks)</p>
 <p>Println / Print: untuk menampilkan hasil atau kalimat ke layar (Println membuat baris baru di akhir, Print tidak)</p>
-<p>Scanln: membaca input dari pengguna dan menyimpannya ke masing’ variabel nya(</p>
+<p>Scanln: membaca input dari pengguna dan menyimpannya ke masing’ variabel nya</p>
 
 <p> Jadi program ini meminta user untuk menginputkan tiga buah kata satu per satu yang disimpan ke dalam variabel satu, dua, dan tiga.
 Setelah semua input dimasukkan, program akan menampilkan output awal yang berisi ketiga kata tersebut sesuai urutan input.
@@ -116,7 +116,7 @@ Kemudian program melakukan pertukaran posisi nilai variabel menggunakan variabel
 Dan program menampilkan output akhir yang berisi urutan string yang sudah berubah.</p>
 
 ##### Output
-<img  />
+<img src = https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal%201.png >
 
 [penjelasan]
 <h2>Soal 2</h2>
@@ -144,7 +144,7 @@ Setelah semua percobaan selesai, program akan menampilkan hasil akhir "Berhasil"
 
 
 ##### Output
-<img  />
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal2.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -169,3 +169,8 @@ Setelah semua percobaan selesai, program akan menampilkan hasil akhir "Berhasil"
 <p>Jika sisa gram < 500 dan kg ≤ 10, maka biaya tambahan = gr * 15.</p>
 <p>Jika kg > 10, maka tidak ada biaya tambahan.</p>
 <p>Program kemudian menampilkan detail berat, detail biaya (biaya dasar + tambahan), dan total biaya pengiriman</p>
+
+
+##### Output
+##### Output
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/output/soal%203.png" >
