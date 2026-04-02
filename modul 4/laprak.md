@@ -162,7 +162,7 @@ C(n,r)=n!/r!(n−r)!, dengan n dan r sebagai parameter. Nilai faktorial disimpan
 <p>Hasil akhirnya ditampilkan dalam 2 baris output, yaitu baris pertama berisi hasil dari pasangan a dan c, dan baris kedua berisi hasil dari pasangan b dan d.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/modul-3/blob/main/output/soal%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%201.png" >
 
 
 [penjelasan]
@@ -208,14 +208,14 @@ C(n,r)=n!/r!(n−r)!, dengan n dan r sebagai parameter. Nilai faktorial disimpan
 
 
 ##### Output
-<img src = "https://github.com/leonardo0138/modul-3/blob/main/output/soal%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
 <br>
 <p>package main: menandakan bahwa program ini adalah program utama</p>
 <p>import "fmt": digunakan untuk input/output standar</p>
-<p>func main() : untuk titik awal eksekusi program Go, semua intruksi akan berjalan dari fungsi ini</p>
+<p>func main : untuk titik awal eksekusi program Go, semua intruksi akan berjalan dari fungsi ini</p>
 <p>var: untuk mendeklarasikan variabel</p>
 <p>func deret(n int): fungsi untuk menghasilkan deret berdasarkan aturan tertentu</p>
 <p>for { }: perulangan tak hingga sampai kondisi berhenti terpenuhi</p>
@@ -235,4 +235,4 @@ Jika n adalah bilangan ganjil, maka dikalikan 3 lalu ditambah 1.</p>
 <p>Dengan demikian, program ini menunjukkan bagaimana suatu bilangan dapat berubah mengikuti aturan tertentu sampai mencapai kondisi berhenti.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/modul-3/blob/main/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%203.png" >
