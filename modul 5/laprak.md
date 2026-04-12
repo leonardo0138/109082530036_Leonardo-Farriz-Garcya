@@ -178,7 +178,7 @@ func main() {
 Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalikan bertahap hingga diperoleh nilai akhir. Output yang dihasilkan adalah deret Fibonacci: 0 1 1 2 3 5 8 13 21 34 55.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%201.png" >
 
 
 [penjelasan]
@@ -208,7 +208,7 @@ Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalika
 <p>Fungsi main membaca input n, kemudian memanggil fungsi bintang(n) untuk menghasilkan pola. Output yang dihasilkan adalah segitiga bintang dengan jumlah baris sesuai nilai n.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -234,7 +234,7 @@ Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalika
 <p>Pada fungsi faktor, kondisi dasar terjadi ketika nilai i lebih besar dari n, sehingga proses rekursi dihentikan. Jika tidak, program akan mengecek apakah n habis dibagi i (n % i == 0). Jika ya, maka nilai i dicetak sebagai faktor.</p>
 <p>Selanjutnya, fungsi akan memanggil dirinya sendiri dengan nilai i+1, sehingga proses pengecekan dilakukan secara berurutan dari 1 hingga n.Fungsi main membaca input n, kemudian memanggil faktor(n, 1) untuk memulai proses pencarian faktor. Output yang dihasilkan adalah seluruh faktor dari bilangan n.</p>
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%203.png" >
 
 
 [penjelasan]
@@ -260,7 +260,8 @@ Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalika
 <p>Fungsi main membaca input n dan memanggil baris(n). Output yang dihasilkan adalah pola bilangan simetris, misalnya untuk n = 5 menghasilkan 5 4 3 2 1 2 3 4 5.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%204.png" >
+
 
 [penjelasan]
 <h2>Soal 5</h2>
@@ -284,7 +285,7 @@ Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalika
 <p>Setelah pemanggilan rekursif, program mengecek apakah n adalah bilangan ganjil (n % 2 != 0). Jika ya, maka nilai n dicetak.Fungsi main membaca input n dan memanggil ganjil(n). Output yang dihasilkan adalah deret bilangan ganjil dari 1 sampai n.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%205.png" >
 
 
 [penjelasan]
@@ -304,4 +305,4 @@ Proses rekursi berlangsung hingga mencapai kondisi dasar, lalu hasil dikembalika
 <p>Pada fungsi pangkat, kondisi dasar terjadi ketika y = 0, sehingga fungsi mengembalikan nilai 1. Jika y lebih dari 0, maka fungsi akan mengembalikan hasil perkalian x dengan pemanggilan rekursif pangkat(x, y-1).</p>
 <p>Proses rekursi berlangsung hingga nilai y mencapai 0, kemudian hasil dikembalikan secara bertahap hingga diperoleh nilai akhir perpangkatan.Fungsi main membaca input x dan y, lalu memanggil pangkat(x, y). Output yang dihasilkan adalah hasil dari x pangkat y.</p>
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%204/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%206.png" >
