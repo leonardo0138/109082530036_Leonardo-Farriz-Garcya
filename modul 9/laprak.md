@@ -319,7 +319,7 @@ func main() {
 <p>Output akhir menampilkan posisi titik sesuai hasil pengecekan tersebut.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%201.png" >
 
 
 [penjelasan]
@@ -380,7 +380,7 @@ func main() {
 <p>Dengan demikian, program ini menggabungkan operasi dasar array, manipulasi data, serta analisis statistik dalam satu alur eksekusi.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -418,7 +418,7 @@ func main() {
 <p>Setelah semua pertandingan selesai, program menampilkan seluruh hasil pertandingan secara berurutan berdasarkan urutan input, lalu diakhiri dengan pesan bahwa pertandingan telah selesai.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%203.png" >
 
 
 [penjelasan]
@@ -470,5 +470,5 @@ func main() {
 <p>Terakhir, program menampilkan hasil pengecekan palindrom dalam bentuk true atau false berdasarkan kondisi teks awal sebelum dibalik.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%205/output/output%204.png" >
+<img src = "https://github.com/leonardo0138/109082530036https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%204.png" >
 
