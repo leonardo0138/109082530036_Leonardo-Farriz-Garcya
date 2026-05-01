@@ -470,5 +470,5 @@ func main() {
 <p>Terakhir, program menampilkan hasil pengecekan palindrom dalam bentuk true atau false berdasarkan kondisi teks awal sebelum dibalik.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%204.png" >
 
