@@ -171,7 +171,7 @@ func main(){
 
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%201.png" >
 
 
 [penjelasan]
@@ -211,7 +211,7 @@ func main(){
 <p>Hasil akhir yang ditampilkan adalah total berat tiap kelompok dan rata-rata berat tiap kelompok secara berurutan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -254,6 +254,6 @@ func main(){
 <p>Hasil akhir yang ditampilkan adalah berat minimum, berat maksimum, dan rata-rata berat balita dengan format dua angka di belakang koma.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%209/output/output%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%203.png" >
 
 
