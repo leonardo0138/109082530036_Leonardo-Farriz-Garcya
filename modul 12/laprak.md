@@ -194,7 +194,7 @@ func main() {
 <p>Setelah seluruh data diproses, program menampilkan jumlah suara masuk, jumlah suara sah, serta daftar kandidat yang memperoleh suara beserta banyaknya suara yang diterima. Kandidat yang tidak memperoleh suara tidak akan ditampilkan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%201.png" >
 
 
 [penjelasan]
@@ -243,7 +243,7 @@ func main() {
 <p>Dengan demikian, program ini menerapkan proses penghitungan suara sekaligus pencarian nilai maksimum dan maksimum kedua untuk menentukan hasil akhir pemilihan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -285,6 +285,6 @@ func main() {
 
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2010/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%203.png" >
 
 
