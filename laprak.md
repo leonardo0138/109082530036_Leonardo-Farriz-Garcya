@@ -391,7 +391,7 @@ func main() {
 <p>Jika data ditemukan, program menampilkan posisi indeksnya. Jika data tidak ditemukan, program menampilkan pesan "TIDAK ADA".</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%201.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2014/output/soal%201.png" >
 
 
 [penjelasan]
@@ -459,7 +459,7 @@ func main() {
 <p>Ini menggabungkan proses klasifikasi data berdasarkan paritas bilangan (ganjil dan genap), pengurutan dengan dua kriteria berbeda, serta penggabungan hasil untuk menghasilkan susunan akhir yang sesuai dengan ketentuan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%202.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2014/output/soal%202.png" >
 
 [penjelasan]
 <h2>Soal 3</h2>
@@ -502,7 +502,7 @@ func main() {
 <p>Program menggabungkan proses penyimpanan data, pengurutan menggunakan insertion sort, dan perhitungan median secara bertahap berdasarkan input yang diberikan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2014/output/soal%203.png" >
 
 [penjelasan]
 <h2>Soal 4</h2>
@@ -556,7 +556,7 @@ func main() {
 <p>Program tidak hanya mengurutkan data, tetapi juga menentukan apakah data tersebut membentuk suatu barisan dengan beda yang konstan.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2014/output/soal%204.png" >
 
 [penjelasan]
 <h2>Soal 5</h2>
@@ -630,4 +630,4 @@ func main() {
 <p>Program ini menggabungkan proses penyimpanan data buku, pencarian buku favorit, pengurutan berdasarkan rating, penampilan lima buku dengan rating tertinggi, serta pencarian buku berdasarkan rating tertentu.</p>
 
 ##### Output
-<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2012/output/soal%203.png" >
+<img src = "https://github.com/leonardo0138/109082530036_Leonardo-Farriz-Garcya/blob/main/modul%2014/output/soal%205.png" >
